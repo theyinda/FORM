@@ -1,0 +1,75 @@
+body{
+	background-color: rgba(123,212,255,0.8);
+}
+
+
+.yomi{
+	display: inline-block;
+	width: 150px;
+	
+}
+.container{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 250px;
+	display: block;
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	background-color: rgb(255,255,255);
+	width: 450px;
+	height:350px;
+	margin-bottom: 40px;
+	margin: auto;
+}
+h2{
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-weight: bold;
+}
+.name{
+	display: block;
+	width: 200px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-left: 195px;
+}
+.number{
+
+	display: block;
+	width: 200px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-left: 195px;
+
+}
+
+.email{
+	display: block;
+	width: 200px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-left: 195px;
+}
+
+.msg{
+	display: block;
+	width: 200px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	padding-left: 195px;
+	padding-bottom: 80px;
+}
+.submit{
+
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin-bottom: 220px;
+	margin-left: 120px;
+	padding-right: auto;
+	padding-top: 20px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	
+}
